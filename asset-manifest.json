@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/arvrgaming/static/css/main.a18b9d71.chunk.css",
-    "main.js": "/arvrgaming/static/js/main.8e424a06.chunk.js",
-    "main.js.map": "/arvrgaming/static/js/main.8e424a06.chunk.js.map",
-    "runtime-main.js": "/arvrgaming/static/js/runtime-main.6f45731d.js",
-    "runtime-main.js.map": "/arvrgaming/static/js/runtime-main.6f45731d.js.map",
-    "static/css/2.818011ed.chunk.css": "/arvrgaming/static/css/2.818011ed.chunk.css",
-    "static/js/2.1a5fc59d.chunk.js": "/arvrgaming/static/js/2.1a5fc59d.chunk.js",
-    "static/js/2.1a5fc59d.chunk.js.map": "/arvrgaming/static/js/2.1a5fc59d.chunk.js.map",
-    "index.html": "/arvrgaming/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/arvrgaming/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.a18b9d71.chunk.css.map": "/arvrgaming/static/css/main.a18b9d71.chunk.css.map",
-    "static/js/2.1a5fc59d.chunk.js.LICENSE.txt": "/arvrgaming/static/js/2.1a5fc59d.chunk.js.LICENSE.txt"
+    "main.css": "/arvrgttech/static/css/main.a18b9d71.chunk.css",
+    "main.js": "/arvrgttech/static/js/main.8e424a06.chunk.js",
+    "main.js.map": "/arvrgttech/static/js/main.8e424a06.chunk.js.map",
+    "runtime-main.js": "/arvrgttech/static/js/runtime-main.5d44a5c2.js",
+    "runtime-main.js.map": "/arvrgttech/static/js/runtime-main.5d44a5c2.js.map",
+    "static/css/2.818011ed.chunk.css": "/arvrgttech/static/css/2.818011ed.chunk.css",
+    "static/js/2.1a5fc59d.chunk.js": "/arvrgttech/static/js/2.1a5fc59d.chunk.js",
+    "static/js/2.1a5fc59d.chunk.js.map": "/arvrgttech/static/js/2.1a5fc59d.chunk.js.map",
+    "index.html": "/arvrgttech/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/arvrgttech/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a18b9d71.chunk.css.map": "/arvrgttech/static/css/main.a18b9d71.chunk.css.map",
+    "static/js/2.1a5fc59d.chunk.js.LICENSE.txt": "/arvrgttech/static/js/2.1a5fc59d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f45731d.js",
+    "static/js/runtime-main.5d44a5c2.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.1a5fc59d.chunk.js",
     "static/css/main.a18b9d71.chunk.css",
